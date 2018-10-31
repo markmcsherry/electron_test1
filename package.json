@@ -1,0 +1,19 @@
+{
+  "name": "electron_test1",
+  "version": "1.0.0",
+  "description": "Test Electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmcsherry/electron_test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markmcsherry/electron_test1/issues"
+  },
+  "homepage": "https://github.com/markmcsherry/electron_test1#readme"
+}
