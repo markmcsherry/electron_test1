@@ -4,7 +4,7 @@
   "description": "Test Electron app",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+        "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/markmcsherry/electron_test1/issues"
   },
-  "homepage": "https://github.com/markmcsherry/electron_test1#readme"
+  "homepage": "https://github.com/markmcsherry/electron_test1#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
 }
